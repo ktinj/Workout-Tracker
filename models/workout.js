@@ -46,5 +46,5 @@ return this.exercises.reduce((total, exercise) => {
 }, 0);
 });
 
-const Workout = mongoose.model("Workout", workoutSchema);
+const Workout = mongoose.model("workout", workoutSchema);
 module.exports = Workout;
