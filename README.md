@@ -16,4 +16,5 @@ A consumer will reach their fitness goals more quickly when they track their wor
 
 ## Links
 [Git Hub Repo](https://github.com/ktinj/Workout-Tracker)
+
 [Deployed Heroku](https://ancient-inlet-51511.herokuapp.com/)
